@@ -1,0 +1,11 @@
+
+----
+
+**[[abp:obs|Open Bible Stories]]**
+
+{{page>abp:obs:stories}}
+
+
+**Latest Status**
+{{page>en:uwadmin:abp:obs:status}}
+
