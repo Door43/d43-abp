@@ -2,9 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-01.jpg?direct&}}
 
-Mahayaghag hilan mahayaghag ye miahawan Adan. Angkomonin hila ha matampa a pananamanan a dinyag nan Apo Dioh a impabaala na kanla. Loh-ok hila po hatew, noba ahe hila angkading-ey, ta homain po kahalanan ha babe lota. Maheheg hilan ampakew ha pananamanan boy ampakitongtong kanan Apo Dioh.
-
-2.1 Mahayaghag hilan mahayaghag ye miahawan Adan. Angkomonin hila ha matampa a pananamanan a dinyag nan Apo Dioh a impabaala na kanla. Loh-ok hila po hatew, noba ahe hila angkading-ey, ta homain po kahalanan ha babe lota. Maheheg hilan ampakew ha pananamanan boy ampakitongtong kanan Apo Dioh. 
+Mahayaghag hilan mahayaghag ye miahawan Adan. Angkomonin hila ha matampa a pananamanan a dinyag nan Apo Dioh a impabaala na kanla. Loh-ok hila po hatew, noba ahe hila angkading-ey, ta homain po kahalanan ha babe-lota. Maheheg hilan ampakew ha pananamanan boy ampakitongtong kanan Apo Dioh. 
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?direct&}}
 
