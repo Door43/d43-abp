@@ -9,17 +9,12 @@
 
   * [[abp:obs|Open Bible Stories (abp)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-abp|d43-abp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abp/archive/master.zip|d43-abp.zip]]
 
 **Recent Changes**
 {{changes>ns = abp}}
-
-**Latest Status**
-{{page>en:uwadmin:abp:obs:status}}
-
 
 **Language Information**
 
